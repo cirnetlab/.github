@@ -9,8 +9,6 @@
   </a>
 </p>
 
-<h2 align="center">CIRNETLAB</h2>
-
 <p align="center">
   An open electronics laboratory project connecting curiosity with real-world engineering.<br />
   Exploring circuit simulation, browser-based tools, and the future of remote hardware experiments.
