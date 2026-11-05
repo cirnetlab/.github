@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tinihi.cirnetlab.workers.dev/"><strong>🌐 Explore the Website ↗</strong></a>
+  <a href="https://tinihi.cirnetlab.workers.dev/"><strong>🌐 Explore the Website</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/orgs/cirnetlab/repositories"><strong>💻 Browse Repositories</strong></a>
 </p>
