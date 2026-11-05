@@ -1,12 +1,7 @@
 <!-- CIRNETLAB GitHub organization profile -->
-
-<p align="left"><sub><code>CIRNETLAB / README.md</code></sub></p>
-
 <h1 align="center">
   Real circuits. <a href="https://tinihi.cirnetlab.workers.dev/">Beyond the bench.</a>
 </h1>
-
----
 
 <p align="center">
   <a href="https://tinihi.cirnetlab.workers.dev/" title="Explore CIRNETLAB">
@@ -24,11 +19,7 @@
 <p align="center">
   <a href="https://tinihi.cirnetlab.workers.dev/"><strong>🌐 Explore the Website ↗</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/cirnetlab?tab=repositories"><strong>💻 Browse Repositories</strong></a>
-</p>
-
-<p align="center">
-  <sub>OPEN DEVELOPMENT &nbsp;·&nbsp; BROWSER-FIRST &nbsp;·&nbsp; VIRTUAL TO PHYSICAL</sub>
+  <a href="https://github.com/orgs/cirnetlab/repositories"><strong>💻 Browse Repositories</strong></a>
 </p>
 
 ---
@@ -43,5 +34,5 @@ Our direction is to bring circuit design, simulation, and real hardware closer t
 
 ### 🤝 Follow the journey.
 
-CIRNETLAB is **under development**. Visit the [website](https://tinihi.cirnetlab.workers.dev/) to explore the current experience, or browse our [GitHub repositories](https://github.com/cirnetlab?tab=repositories) to follow the work.
+CIRNETLAB is **under development**. Visit the [website](https://tinihi.cirnetlab.workers.dev/) to explore the current experience, or browse our [GitHub repositories](https://github.com/orgs/cirnetlab/repositories) to follow the work.
 
