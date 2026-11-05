@@ -1,12 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://tinihi.cirnetlab.workers.dev/" title="Visit CIRNETLAB">
+    <img src="https://raw.githubusercontent.com/cirnetlab/.github/main/asset/mascot.png" width="128" alt="CIRNETLAB owl mascot" />
+  </a>
+</p>
 
-<!--
+<h1 align="center">CIRNETLAB</h1>
 
-**Here are some ideas to get you started:**
+<p align="center">
+  <strong>Real circuits. Beyond the bench.</strong>
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  An open electronics lab in development.<br />
+  We're building a browser-first space to explore circuits, experiment virtually,<br />
+  and connect ideas with real hardware.
+</p>
+
+<p align="center">
+  <a href="https://tinihi.cirnetlab.workers.dev/"><strong>Explore the Website ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/cirnetlab?tab=repositories">Browse Repositories</a>
+</p>
+
+<p align="center">
+  <sub>Electronics &nbsp;·&nbsp; Simulation &nbsp;·&nbsp; Remote Labs</sub>
+</p>
