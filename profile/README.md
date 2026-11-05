@@ -1,27 +1,47 @@
+<!-- CIRNETLAB GitHub organization profile -->
+
+<p align="left"><sub><code>CIRNETLAB / README.md</code></sub></p>
+
+<h1 align="center">
+  Real circuits. <a href="https://tinihi.cirnetlab.workers.dev/">Beyond the bench.</a>
+</h1>
+
+---
+
 <p align="center">
-  <a href="https://tinihi.cirnetlab.workers.dev/" title="Visit CIRNETLAB">
-    <img src="https://raw.githubusercontent.com/cirnetlab/.github/main/asset/mascot.png" width="128" alt="CIRNETLAB owl mascot" />
+  <a href="https://tinihi.cirnetlab.workers.dev/" title="Explore CIRNETLAB">
+    <img src="https://raw.githubusercontent.com/cirnetlab/.github/main/asset/mascot.png" alt="CIRNETLAB owl mascot" width="152" />
   </a>
 </p>
 
-<h1 align="center">CIRNETLAB</h1>
+<h2 align="center">CIRNETLAB</h2>
 
 <p align="center">
-  <strong>Real circuits. Beyond the bench.</strong>
+  An open electronics laboratory project connecting curiosity with real-world engineering.<br />
+  Exploring circuit simulation, browser-based tools, and the future of remote hardware experiments.
 </p>
 
 <p align="center">
-  An open electronics lab in development.<br />
-  We're building a browser-first space to explore circuits, experiment virtually,<br />
-  and connect ideas with real hardware.
+  <a href="https://tinihi.cirnetlab.workers.dev/"><strong>🌐 Explore the Website ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/cirnetlab?tab=repositories"><strong>💻 Browse Repositories</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://tinihi.cirnetlab.workers.dev/"><strong>Explore the Website ↗</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/cirnetlab?tab=repositories">Browse Repositories</a>
+  <sub>OPEN DEVELOPMENT &nbsp;·&nbsp; BROWSER-FIRST &nbsp;·&nbsp; VIRTUAL TO PHYSICAL</sub>
 </p>
 
-<p align="center">
-  <sub>Electronics &nbsp;·&nbsp; Simulation &nbsp;·&nbsp; Remote Labs</sub>
-</p>
+---
+
+### ⚡ Explore electronics in a new way.
+
+We're building a space where circuits can be explored through the browser, with virtual experiments as a foundation for connected laboratory experiences.
+
+### 🔌 Bridge the virtual and the physical.
+
+Our direction is to bring circuit design, simulation, and real hardware closer together—making hands-on electronics more accessible beyond a traditional lab bench.
+
+### 🤝 Follow the journey.
+
+CIRNETLAB is **under development**. Visit the [website](https://tinihi.cirnetlab.workers.dev/) to explore the current experience, or browse our [GitHub repositories](https://github.com/cirnetlab?tab=repositories) to follow the work.
+
