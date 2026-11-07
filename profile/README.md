@@ -1,4 +1,5 @@
 <!-- CIRNETLAB GitHub organization profile -->
+<!-- Keep this file at the GitHub organization profile entry path. -->
 <h1 align="center">
   Real circuits. <a href="https://tinihi.cirnetlab.workers.dev/">Beyond the bench.</a>
 </h1>
@@ -33,4 +34,6 @@ Our direction is to bring circuit design, simulation, and real hardware closer t
 ### 🤝 Follow the journey.
 
 CIRNETLAB is **under development**. Visit the [website](https://tinihi.cirnetlab.workers.dev/) to explore the current experience, or browse our [GitHub repositories](https://github.com/orgs/cirnetlab/repositories) to follow the work.
+
+[English documentation](../docs/en/index.md) · [Tiếng Việt](../docs/vi/index.md)
 
