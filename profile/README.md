@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-  An open electronics laboratory project connecting curiosity with real-world engineering.<br />
-  Exploring circuit simulation, browser-based tools, and the future of remote hardware experiments.
+  CIRNET is a multi-platform STEM technical and educational ecosystem that integrates design, programming, simulation, data analysis, hardware experimentation, and learning management into a unified environment, supporting learners from foundational practical exercises to technical research, embedded systems, and semiconductor circuit design.
 </p>
 
 <p align="center">
