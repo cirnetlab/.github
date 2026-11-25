@@ -61,3 +61,7 @@ Please coordinate public disclosure with the maintainers to allow reasonable tim
 CIRNETLAB's engineering practices prioritize least privilege, explicit trust boundaries, bounded execution, canonical contracts, dependency and artifact integrity, reproducible verification, and fail-safe hardware control. Git revisions and SHA-256 digests establish traceability and integrity; they do not alone establish trust or electrical safety.
 
 This organization-wide policy applies to repositories maintained by [CIRNETLAB](https://github.com/cirnetlab). Repository-specific policies may add requirements for their respective domains.
+
+## Repository security baseline
+
+For each maintained repository, owners should review access and MFA, least-privilege workflow permissions, branch protection and review, dependency/advisory monitoring, secret scanning where available, and private vulnerability reporting where supported. Review pinned dependencies and third-party artifacts before releases. Never commit secrets; revoke and rotate exposed credentials, assess affected artifacts, and preserve incident evidence securely. Separate actual vulnerability remediation and settings changes from this documentation policy. Document checks as PASS, FAIL, BLOCKED or NOT_RUN against an exact revision. No security feature is claimed enabled by this document.
