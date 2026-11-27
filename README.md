@@ -1,7 +1,8 @@
-# .github
+# CIRNETLAB GitHub community
 
-[English documentation](docs/en/index.md) · [Tiếng Việt](docs/vi/index.md)
+The [organization profile](profile/README.md) introduces CIRNETLAB and links
+to public project documentation. This repository also holds the
+[security policy](SECURITY.md).
 
-The public organization entry is [profile/README.md](profile/README.md).
-
-CIRNETLAB .github metarepository
+[English website](https://tinihi.cirnetlab.workers.dev/getting-started/) ·
+[Tiếng Việt](https://tinihi.cirnetlab.workers.dev/vi/getting-started/)

@@ -34,5 +34,5 @@ Our direction is to bring circuit design, simulation, and real hardware closer t
 
 CIRNETLAB is **under development**. Visit the [website](https://tinihi.cirnetlab.workers.dev/) to explore the current experience, or browse our [GitHub repositories](https://github.com/orgs/cirnetlab/repositories) to follow the work.
 
-[English documentation](../docs/en/index.md) · [Tiếng Việt](../docs/vi/index.md)
+[English documentation](https://tinihi.cirnetlab.workers.dev/getting-started/) · [Tài liệu tiếng Việt](https://tinihi.cirnetlab.workers.dev/vi/getting-started/) · [CLI documentation](https://github.com/cirnetlab/cirnet-cli/blob/master/docs/en/index.md)
 
